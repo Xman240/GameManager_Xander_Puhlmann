@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b18740cfc8ef11747b32ed9f426b41d2, type: 3}
+  m_Name: BatDying
+  m_EditorClassIdentifier: Assembly-CSharp::AnimationData
+  animationName: Dying
+  frames:
+  - {fileID: -974853867, guid: 0206bb0b367874e4884eec0b1151086b, type: 3}
+  - {fileID: 891474863, guid: 0206bb0b367874e4884eec0b1151086b, type: 3}
+  - {fileID: -2076086845, guid: 0206bb0b367874e4884eec0b1151086b, type: 3}
+  - {fileID: 1271878664, guid: 0206bb0b367874e4884eec0b1151086b, type: 3}
+  - {fileID: -1325715130, guid: 0206bb0b367874e4884eec0b1151086b, type: 3}
+  - {fileID: -1495023880, guid: 0206bb0b367874e4884eec0b1151086b, type: 3}
+  - {fileID: 1532712653, guid: 0206bb0b367874e4884eec0b1151086b, type: 3}
+  - {fileID: -2009371584, guid: 0206bb0b367874e4884eec0b1151086b, type: 3}
+  - {fileID: -1727871630, guid: 0206bb0b367874e4884eec0b1151086b, type: 3}
+  - {fileID: 214966628, guid: 0206bb0b367874e4884eec0b1151086b, type: 3}
+  - {fileID: 152133715, guid: 0206bb0b367874e4884eec0b1151086b, type: 3}
+  - {fileID: 189739980, guid: 0206bb0b367874e4884eec0b1151086b, type: 3}
+  frameDelay: 0.1
+  loop: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b18740cfc8ef11747b32ed9f426b41d2, type: 3}
+  m_Name: Idling
+  m_EditorClassIdentifier: Assembly-CSharp::AnimationData
+  animationName: Idling
+  frames:
+  - {fileID: 569609500, guid: a7578f34aaec191489403f0002b529e2, type: 3}
+  - {fileID: -1775384900, guid: a7578f34aaec191489403f0002b529e2, type: 3}
+  - {fileID: 1215698916, guid: a7578f34aaec191489403f0002b529e2, type: 3}
+  - {fileID: -1888642263, guid: a7578f34aaec191489403f0002b529e2, type: 3}
+  - {fileID: -1443011822, guid: a7578f34aaec191489403f0002b529e2, type: 3}
+  - {fileID: -35124745, guid: a7578f34aaec191489403f0002b529e2, type: 3}
+  - {fileID: 2007217540, guid: a7578f34aaec191489403f0002b529e2, type: 3}
+  - {fileID: -75054963, guid: a7578f34aaec191489403f0002b529e2, type: 3}
+  - {fileID: 2006277916, guid: a7578f34aaec191489403f0002b529e2, type: 3}
+  frameDelay: 0.1
+  loop: 1

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b18740cfc8ef11747b32ed9f426b41d2, type: 3}
+  m_Name: AttackAnimation
+  m_EditorClassIdentifier: Assembly-CSharp::AnimationData
+  animationName: attack
+  frames:
+  - {fileID: 21300000, guid: 63412ff8c718f294b976b81ca6a7fbfd, type: 3}
+  - {fileID: 21300000, guid: f79356558c5bdf34a9c6236ee5ac4bfe, type: 3}
+  - {fileID: 21300000, guid: 95208f7e9a036504a87830e51a05be04, type: 3}
+  - {fileID: 21300000, guid: 651fa4463703f67499f06f92e616bb50, type: 3}
+  - {fileID: 21300000, guid: 02a0395506f87324bb217601125f33d6, type: 3}
+  - {fileID: 21300000, guid: b1c1d9ce2f04ae24ba7172ab92dd7252, type: 3}
+  frameDelay: 0.05
+  loop: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b18740cfc8ef11747b32ed9f426b41d2, type: 3}
+  m_Name: MushroomWalking
+  m_EditorClassIdentifier: Assembly-CSharp::AnimationData
+  animationName: Walking
+  frames:
+  - {fileID: 611442528, guid: 8e89e90e375aeca499dd94ec1e74a53c, type: 3}
+  - {fileID: 692175347, guid: 8e89e90e375aeca499dd94ec1e74a53c, type: 3}
+  - {fileID: 86123707, guid: 8e89e90e375aeca499dd94ec1e74a53c, type: 3}
+  - {fileID: 2136032594, guid: 8e89e90e375aeca499dd94ec1e74a53c, type: 3}
+  - {fileID: 1161713189, guid: 8e89e90e375aeca499dd94ec1e74a53c, type: 3}
+  - {fileID: -1817579330, guid: 8e89e90e375aeca499dd94ec1e74a53c, type: 3}
+  - {fileID: 151573101, guid: 8e89e90e375aeca499dd94ec1e74a53c, type: 3}
+  - {fileID: 186136980, guid: 8e89e90e375aeca499dd94ec1e74a53c, type: 3}
+  frameDelay: 0.1
+  loop: 1

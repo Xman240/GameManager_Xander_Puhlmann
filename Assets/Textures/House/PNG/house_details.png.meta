@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 06149f39c90d0004f9388022af624cba
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: house_details_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 176
+        width: 127
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4def7dcad3a38f42a1889f5bf4a8f05
+      internalID: 1712049405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_details_80
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 76
+        width: 132
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5808ba7a60800a149a8d98ba737d847f
+      internalID: -967360707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_details_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 34
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9636da6fbdb2b459985048bedde4a3
+      internalID: -848297775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house_details_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 15
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5173161, y: 0.5519513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb730a78accf4e478dad088bce121bd
+      internalID: 459095676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 127a06357a6dc884288c06054c8ff782
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      house_details_0: -908691843
+      house_details_1: 551192973
+      house_details_10: 1330798213
+      house_details_100: -1384091737
+      house_details_101: -185122439
+      house_details_102: -1553326257
+      house_details_103: 1410061557
+      house_details_104: -311354971
+      house_details_105: 1237666729
+      house_details_106: 114246797
+      house_details_107: -1713035492
+      house_details_108: 2002519060
+      house_details_109: 459095676
+      house_details_11: -952895345
+      house_details_110: -1019180526
+      house_details_111: -2013580918
+      house_details_112: -615139668
+      house_details_12: 756175842
+      house_details_13: 1071036747
+      house_details_14: 1537022331
+      house_details_15: -1762267394
+      house_details_16: 216759628
+      house_details_17: 195661988
+      house_details_18: 362195129
+      house_details_19: -249496268
+      house_details_2: 1289175467
+      house_details_20: 183506863
+      house_details_21: -1907334175
+      house_details_22: -636805085
+      house_details_23: -2055650985
+      house_details_24: -1364169942
+      house_details_25: 719944727
+      house_details_26: 997925364
+      house_details_27: -8704570
+      house_details_28: 2107482461
+      house_details_29: -1981873694
+      house_details_3: 1754528480
+      house_details_30: -789544449
+      house_details_31: -1791508555
+      house_details_32: 1148194851
+      house_details_33: -1905704318
+      house_details_34: 486605431
+      house_details_35: -1793322641
+      house_details_36: -1071106176
+      house_details_37: -852667722
+      house_details_38: -613540064
+      house_details_39: 1712049405
+      house_details_4: 1959164932
+      house_details_40: 612224594
+      house_details_41: 1297536186
+      house_details_42: 690170449
+      house_details_43: -1940070356
+      house_details_44: 2017176296
+      house_details_45: 1196272052
+      house_details_46: 1455589576
+      house_details_47: -146457783
+      house_details_48: -718831368
+      house_details_49: 1258489048
+      house_details_5: -1603039279
+      house_details_50: -1036951705
+      house_details_51: -1569919984
+      house_details_52: -1389544329
+      house_details_53: -1948649190
+      house_details_54: -1503706341
+      house_details_55: -1867251518
+      house_details_56: -1002158017
+      house_details_57: -1157411495
+      house_details_58: 886924735
+      house_details_59: -936713988
+      house_details_6: -570241886
+      house_details_60: 831765816
+      house_details_61: 641608311
+      house_details_62: 978212267
+      house_details_63: 805126719
+      house_details_64: 256926298
+      house_details_65: 1891201672
+      house_details_66: -954305913
+      house_details_67: 172277264
+      house_details_68: -266147637
+      house_details_69: 1825353202
+      house_details_7: 1932133713
+      house_details_70: 150809577
+      house_details_71: -2056192701
+      house_details_72: 335627498
+      house_details_73: -1720501145
+      house_details_74: -24106405
+      house_details_75: -744929175
+      house_details_76: 316168886
+      house_details_77: 1874092988
+      house_details_78: 1243732937
+      house_details_79: -527615696
+      house_details_8: -44553660
+      house_details_80: -967360707
+      house_details_81: -1221091703
+      house_details_82: -1969454862
+      house_details_83: 319788347
+      house_details_84: 44787540
+      house_details_85: 1980573213
+      house_details_86: 685649662
+      house_details_87: -233022685
+      house_details_88: 606902644
+      house_details_89: 698487679
+      house_details_9: 1730791528
+      house_details_90: 1094941275
+      house_details_91: -848297775
+      house_details_92: -942909231
+      house_details_93: -846790900
+      house_details_94: -739483601
+      house_details_95: -1966527497
+      house_details_96: -1022880781
+      house_details_97: -917818591
+      house_details_98: 1996381460
+      house_details_99: -1544721849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

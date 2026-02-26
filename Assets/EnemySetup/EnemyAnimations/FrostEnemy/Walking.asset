@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b18740cfc8ef11747b32ed9f426b41d2, type: 3}
+  m_Name: Walking
+  m_EditorClassIdentifier: Assembly-CSharp::AnimationData
+  animationName: 
+  frames:
+  - {fileID: -1005196419, guid: a7578f34aaec191489403f0002b529e2, type: 3}
+  - {fileID: 968845382, guid: a7578f34aaec191489403f0002b529e2, type: 3}
+  - {fileID: 797998312, guid: a7578f34aaec191489403f0002b529e2, type: 3}
+  - {fileID: 1787957630, guid: a7578f34aaec191489403f0002b529e2, type: 3}
+  - {fileID: 1018206333, guid: a7578f34aaec191489403f0002b529e2, type: 3}
+  - {fileID: -1904041965, guid: a7578f34aaec191489403f0002b529e2, type: 3}
+  - {fileID: 2006277916, guid: a7578f34aaec191489403f0002b529e2, type: 3}
+  frameDelay: 0.1
+  loop: 1

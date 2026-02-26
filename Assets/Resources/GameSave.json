@@ -1,0 +1,73 @@
+{
+    "coinsCollected": 3,
+    "mapStates": [
+        {
+            "mapID": 2,
+            "enemyStates": [
+                {
+                    "enemyID": 0,
+                    "currentHP": 100,
+                    "maxHP": 100
+                },
+                {
+                    "enemyID": 1,
+                    "currentHP": 100,
+                    "maxHP": 100
+                }
+            ],
+            "givenTreasure": true
+        },
+        {
+            "mapID": 3,
+            "enemyStates": [
+                {
+                    "enemyID": 0,
+                    "currentHP": 60,
+                    "maxHP": 60
+                },
+                {
+                    "enemyID": 1,
+                    "currentHP": 60,
+                    "maxHP": 60
+                },
+                {
+                    "enemyID": 2,
+                    "currentHP": 60,
+                    "maxHP": 60
+                }
+            ],
+            "givenTreasure": true
+        },
+        {
+            "mapID": 4,
+            "enemyStates": [
+                {
+                    "enemyID": 0,
+                    "currentHP": 0,
+                    "maxHP": 60
+                },
+                {
+                    "enemyID": 1,
+                    "currentHP": 0,
+                    "maxHP": 60
+                },
+                {
+                    "enemyID": 2,
+                    "currentHP": 0,
+                    "maxHP": 60
+                },
+                {
+                    "enemyID": 3,
+                    "currentHP": 0,
+                    "maxHP": 60
+                },
+                {
+                    "enemyID": 4,
+                    "currentHP": 0,
+                    "maxHP": 60
+                }
+            ],
+            "givenTreasure": true
+        }
+    ]
+}

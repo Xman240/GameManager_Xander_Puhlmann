@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b18740cfc8ef11747b32ed9f426b41d2, type: 3}
+  m_Name: BatWalking
+  m_EditorClassIdentifier: Assembly-CSharp::AnimationData
+  animationName: Walking
+  frames:
+  - {fileID: 2724705, guid: 4310699d380881d4d9a2a51da8a169e3, type: 3}
+  - {fileID: 967068257, guid: 4310699d380881d4d9a2a51da8a169e3, type: 3}
+  - {fileID: 1998509443, guid: 4310699d380881d4d9a2a51da8a169e3, type: 3}
+  - {fileID: -954002282, guid: 4310699d380881d4d9a2a51da8a169e3, type: 3}
+  - {fileID: -1975946907, guid: 4310699d380881d4d9a2a51da8a169e3, type: 3}
+  - {fileID: -281679376, guid: 4310699d380881d4d9a2a51da8a169e3, type: 3}
+  - {fileID: 1487613956, guid: 4310699d380881d4d9a2a51da8a169e3, type: 3}
+  - {fileID: 1573414637, guid: 4310699d380881d4d9a2a51da8a169e3, type: 3}
+  frameDelay: 0.1
+  loop: 1
